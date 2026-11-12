@@ -34,3 +34,6 @@ The app uses the unauthenticated GitHub REST API, so GitHub's unauthenticated ra
 - `npm run build` - create a production build.
 - `npm run lint` - run ESLint.
 - `npm run preview` - preview the production build.
+
+# Deployement vercel 
+https://dev-finder-git-hub-profile-explorer.vercel.app/
